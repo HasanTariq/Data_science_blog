@@ -54,7 +54,7 @@ survey_result_puplic.csv - This file contains 998,000 observations about the sur
 
 ### Results
 
-The main findings of the code can be found at the post available https://medium.com/@htj0007/insight-from-stackoverflow-2018-survey-69807b5c9151?sk=3c0c0a37424ae1e140f8d42767c60516.
+The main findings of the code can be found at the post available hhttps://link.medium.com/33pjwSBAF1
 
 
 ## Authors
