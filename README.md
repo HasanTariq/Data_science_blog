@@ -35,6 +35,8 @@ Once you installed it, open it and install the following library from within jup
 %pip install seaborn
 %pip install matplotlib
 ```
+Please do not forgot to download the stackoverflow 2018 survey dataset from the following link:
+https://insights.stackoverflow.com/survey
 
 ## Project Motivation
 The following questions motivate me to do this project:
